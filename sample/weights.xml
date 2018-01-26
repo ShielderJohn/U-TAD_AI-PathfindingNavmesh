@@ -1,0 +1,18 @@
+<root>
+  <weights>
+    <weight type="#" value="-1"></weight>
+    <weight type="A" value="0"></weight>
+    <weight type="B" value="1"></weight>
+    <weight type="C" value="2"></weight>
+    <weight type="D" value="3"></weight>
+    <weight type="E" value="4"></weight>
+    <weight type="F" value="5"></weight>
+    <weight type="G" value="6"></weight>
+    <weight type="H" value="7"></weight>
+    <weight type="I" value="8"></weight>
+    <weight type="J" value="9"></weight>
+    <weight type="K" value="10"></weight>
+    <weight type="L" value="11"></weight>
+    <weight type="M" value="12"></weight>
+  </weights>
+</root>
